@@ -37,3 +37,14 @@ section#telefone{
     background-repeat: no-repeat;
     
 }
+
+ iframe#tela{
+    position: relative;
+
+    top: 80px;
+    left: 22px;
+
+    width: 264px;
+    height: 469px;
+    
+}
